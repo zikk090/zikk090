@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zikk090
 - 👀 I’m interested in chess
-- 🌱 I’m currently learning Reach
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m a Cybersecurity Engineer and Pentester
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ekalu.fk@gmail.com
 
 <!---
